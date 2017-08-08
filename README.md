@@ -16,10 +16,10 @@ npm install --save aor-language-norwegian
 import norwegianMessages from 'aor-language-norwegian';
 
 const messages = {
-    'sv': norwegianMessages,
+    'nb': norwegianMessages,
 };
 
-<Admin locale="no" messages={messages}>
+<Admin locale="nb" messages={messages}>
   ...
 </Admin>
 ```
