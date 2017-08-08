@@ -1,0 +1,28 @@
+{
+  "name": "aor-language-norwegian",
+  "version": "1.0.2",
+  "description": "Norwegian (bokmål) translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeusbaba/aor-language-norwegian.git"
+  },
+  "keywords": [
+    "react",
+    "admin-on-rest",
+    "translation"
+  ],
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "author": "Yilmaz Guleryuz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeusbaba/aor-language-norwegian/issues"
+  },
+  "homepage": "https://github.com/zeusbaba/aor-language-norwegian#readme"
+}
