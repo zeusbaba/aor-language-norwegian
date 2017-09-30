@@ -8,9 +8,10 @@ module.exports = {
             create: 'Skape',
             edit: 'Redigere',
             cancel: 'Avbryt',
-            refresh: 'Oppdate om',
+            refresh: 'Oppdate',
             add_filter: 'Legg til filter',
             remove_filter: 'Fjerne filter',
+            back: 'Tilbake',
         },
         boolean: {
             true: 'Ja',
@@ -23,11 +24,16 @@ module.exports = {
             create: 'Lagre %{name}',
             delete: 'Redigere %{name} #%{id}',
             dashboard: 'Oversikt',
+            not_found: 'ikke funnet',
         },
         input: {
-            image: {
+            file: {
                 upload_several: 'Legg noen filer for å laste opp, eller klikk for å velge en.',
                 upload_single: 'Legg en file for å laste opp, eller klikk for å velge den',
+            },
+            image: {
+                upload_several: 'Legg noen bilder for å laste opp, eller klikk for å velge en.',
+                upload_single: 'Legg et bilde for å laste opp, eller klikk for å velge den',
             },
         },
         message: {
@@ -35,6 +41,8 @@ module.exports = {
             no: 'Nei',
             are_you_sure: 'Er du sikker?',
             about: 'Om',
+            not_found:
+                'Enten du skrev en feil URL, eller du brukte en feil link',
         },
         navigation: {
             no_results: 'Ingen resultater',
