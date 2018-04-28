@@ -1,6 +1,6 @@
-# Norwegian (bokmål) Translations for Admin-on-rest
+# Norwegian (bokmål) Translations for react-admin / admin-on-rest
 
-Norwegian translations for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
+Norwegian translations for [react-admin](https://github.com/marmelab/react-admin) also known as [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
 
 ![admin-on-rest demo](http://static.marmelab.com/admin-on-rest.gif)
 
