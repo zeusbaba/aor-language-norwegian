@@ -1,7 +1,7 @@
 {
   "name": "aor-language-norwegian",
-  "version": "1.1.0",
-  "description": "Norwegian (bokmål) translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "version": "1.1.1",
+  "description": "Norwegian (bokmål) translations for admin-on-rest and react-admin, the frontend framework for building admin applications on top of REST services",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,7 @@
   "keywords": [
     "react",
     "admin-on-rest",
+    "react-admin",
     "translation"
   ],
   "files": [
